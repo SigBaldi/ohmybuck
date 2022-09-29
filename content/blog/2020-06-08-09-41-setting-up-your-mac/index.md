@@ -182,7 +182,7 @@ Tools like [Homebrew] for desktop and terminal applications and [asdf] for manag
    | Opera              | https://formulae.brew.sh/cask/opera              |
    | Rectangle          | https://formulae.brew.sh/cask/rectangle          |
    | Slack              | https://formulae.brew.sh/cask/slack              |
-   | Switchhosts        | https://formulae.brew.sh/cask/switchhosts        |
+   | SwitchHosts        | https://formulae.brew.sh/cask/switchhosts        |
    | Transmission       | https://formulae.brew.sh/cask/transmission       |
    | Visual Studio Code | https://formulae.brew.sh/cask/visual-studio-code |
    | VLC                | https://formulae.brew.sh/cask/vlc                |

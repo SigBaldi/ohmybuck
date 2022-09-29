@@ -119,11 +119,11 @@ Tools like [Homebrew] for desktop and terminal applications and [asdf] for manag
    sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
    ```
 
-1. Close all all terminals and open iterm
+1. Close all terminals and open iTerm2
 
-   [Iterm is more feature rich](https://iterm2.com/features.html) than the standard mac terminal app.
+   [ITerm2 is more feature rich](https://iterm2.com/features.html) than the standard mac terminal app.
 
-1. Apply keybindings for iterm and increase window memory
+1. Apply keybindings for iTerm2 and increase window memory
 
    - Open iTerm2
    - Open iTerm2 > Preferences or "⌘" + ","
@@ -135,7 +135,7 @@ Tools like [Homebrew] for desktop and terminal applications and [asdf] for manag
 
 1. Change oh-my-zsh to include full path
 
-   Default oh-my-zsh would show the directory `/usr/my-name/projects/client/app` path as `app`. The below will backup the default themeand then setup to show the path as `~/projects/client/app`.
+   Default oh-my-zsh would show the directory `/usr/my-name/projects/client/app` path as `app`. The below will backup the default theme and then setup to show the path as `~/projects/client/app`.
 
    ```bash
    ZSH_THEME=~/.oh-my-zsh/themes/ollyrussell.zsh-theme
@@ -174,12 +174,12 @@ Tools like [Homebrew] for desktop and terminal applications and [asdf] for manag
    | Docker             | https://formulae.brew.sh/cask/docker             |
    | Firefox            | https://formulae.brew.sh/cask/firefox            |
    | Google-chrome      | https://formulae.brew.sh/cask/google-chrome      |
+   | Insomnia           | https://formulae.brew.sh/cask/insomnia           |
    | Itsycal            | https://formulae.brew.sh/cask/itsycal            |
-   | Libreoffice        | https://formulae.brew.sh/cask/libreoffice        |
+   | LibreOffice        | https://formulae.brew.sh/cask/libreoffice        |
    | Ngrok              | https://formulae.brew.sh/cask/ngrok              |
    | Obsidian           | https://formulae.brew.sh/cask/obsidian           |
    | Opera              | https://formulae.brew.sh/cask/opera              |
-   | insomnia           | https://formulae.brew.sh/cask/insomnia           |
    | Rectangle          | https://formulae.brew.sh/cask/rectangle          |
    | Slack              | https://formulae.brew.sh/cask/slack              |
    | Switchhosts        | https://formulae.brew.sh/cask/switchhosts        |
@@ -194,6 +194,7 @@ Tools like [Homebrew] for desktop and terminal applications and [asdf] for manag
       docker \
       firefox \
       google-chrome \
+      insomnia \
       itsycal \
       libreoffice \
       ngrok \
